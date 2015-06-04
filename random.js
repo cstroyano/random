@@ -12,4 +12,5 @@ console.log('\n' + numero + str + '\n');
 
 // para version 2.0
 // para versión 3.0
+// para versión 4.0
 
